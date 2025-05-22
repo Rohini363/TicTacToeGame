@@ -92,4 +92,4 @@ TicTacToeWeb/
 ## 🙋‍♀️ Author
 
 Developed by **Rohini363**  
-GitHub: [github.com/Rohini363](https://github.com/Rohini363)
+GitHub: [github.com/Rohini363/TicTacToeGame](https://github.com/Rohini363/TicTacToeGame)
